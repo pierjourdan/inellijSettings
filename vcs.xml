@@ -22,6 +22,10 @@
           <option name="url" value="https://gitlab.forge.orange-labs.fr/bi-bdata/barak/baa-src.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.forge.orange-labs.fr" />
+          <option name="userName" value="OPJO6290" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Applications" />
